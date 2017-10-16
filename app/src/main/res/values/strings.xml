@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MediaPlayer</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="button_example_text">显示列表</string>
+    <string name="button_select_audio">音频</string>
+</resources>
